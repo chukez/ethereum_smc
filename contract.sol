@@ -2,7 +2,7 @@
 // Compatible with OpenZeppelin Contracts ^5.0.0
 pragma solidity ^0.8.20;
 
-contract contractA {
+contract Ownable {
     address real_owner = 0x9581a8b08621139288196C24F8a3580b3a21B240;
 
 
